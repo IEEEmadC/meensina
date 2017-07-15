@@ -11,6 +11,13 @@ Within the University, despite having hundreds of students, many do not have the
 The application can be downloaded for free at Playstore and soon we will also be making it available for iOs and Web.
 
 
+**Region:** Salvador, Bahia – Brazil, South America. 
+
+**Section/Student:** Federal University of Bahia - Student Graduation
+
+**About MeEnsina Team:** www.meensinapp.com or www.facebook.com/meensinapp
+
+
 ### Download APK Android
 
 **ArmeabiV7**: https://goo.gl/mEJ8om
