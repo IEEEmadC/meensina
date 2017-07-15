@@ -1,5 +1,6 @@
 # MeEnsina APP 🚀
-![alt text](https://github.com/joalisson/meensina/blob/master/LOGO2.jpg "MeEnsina Logo")
+
+<img src="https://github.com/joalisson/meensina/blob/master/LOGO2.jpg" width="480">
 
 MeEnsina is a social application. Our goal is to help students study in groups or participate in monitoring. Unlike distance learning, our focus is to motivate students to have face-to-face meetings. In Brazil, for example, there are many students who drop out of continuing to attend higher education because of lack of motivation or difficulty in learning. As, for example, a teacher can not accompany all students, just as there are those who because of the fear, avoid doubting with teachers.
 
