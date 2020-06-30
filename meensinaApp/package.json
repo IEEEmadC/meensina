@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@shoutem/ui": "^0.10.8",
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "carbon-ui": "github:tuckerconnelly/carbon-ui",
     "escodegen": "^1.8.1",
     "firebase": "^2.4.2",
